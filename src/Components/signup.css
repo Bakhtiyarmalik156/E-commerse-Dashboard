@@ -1,0 +1,8 @@
+signcard {
+  width: 100%;
+  max-width: 400px;
+}
+.btnsubmit {
+  padding-top: 10px;
+  padding-left: 35%;
+}
