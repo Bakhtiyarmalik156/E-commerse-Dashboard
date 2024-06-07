@@ -9,7 +9,29 @@
   border-top: 1px solid #e7e7e7;
 }
 
-
+.Applicationlogo
+{
+  padding-right: 15rem;
+  
+ 
+}
+.applogo
+{
+  border-radius: 50% !important;
+  
+}
+.addproduct
+{
+  margin-left: 5px;
+  margin-top: 10px;
+}
+.productheading
+{
+  margin-top: 10px;
+  text-align: center;
+  display: block;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 
 .App-header {
   background-color: #282c34;
